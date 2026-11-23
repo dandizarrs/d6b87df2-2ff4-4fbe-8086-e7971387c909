@@ -1,0 +1,4 @@
+1795395869s 1 https://dandiarchive.s3.amazonaws.com/zarr/d6b87df2-2ff4-4fbe-8086-e7971387c909/extensions/amplitude_scalings/amplitude_scalings/.zarray?versionId=7IiHx1JbMUv.MzArn1jq0HotLe3bodGV
+1795395869s 1 https://api.dandiarchive.org/api/zarr/d6b87df2-2ff4-4fbe-8086-e7971387c909/files?prefix=extensions%2Famplitude_scalings%2Famplitude_scalings%2F.zarray&download=true
+1795395871s 1 https://dandiarchive.s3.amazonaws.com/zarr/d6b87df2-2ff4-4fbe-8086-e7971387c909/extensions/spike_amplitudes/amplitudes/.zarray?versionId=NfGoTNKfT04mUHbvsNKWoSo0DaxTx5be
+1795395871s 1 https://api.dandiarchive.org/api/zarr/d6b87df2-2ff4-4fbe-8086-e7971387c909/files?prefix=extensions%2Fspike_amplitudes%2Famplitudes%2F.zarray&download=true
